@@ -28,11 +28,7 @@
 
 
 ## 使用画面
-![ScreenShot_Diagram](https://user-images.githubusercontent.com/58071320/99251694-213c6400-2851-11eb-9b2c-dcc5bf7d25f9.png)
-
-
-### テスト
-![ScreenShot_Diagram](https://user-images.githubusercontent.com/58071320/99252158-e71f9200-2851-11eb-964f-12ca147186fe.png)
+![ScreenShot_Diagram](https://user-images.githubusercontent.com/58071320/99252454-572e1800-2852-11eb-89ed-4e270870cab2.png)
 
 
 
